@@ -32,20 +32,6 @@ The Rosie Profile web page is designed to present Rosie's professional backgroun
 - **Bootstrap**: For responsive design and layout.
 - **Font Awesome**: For icons.
 
-## Installation
-
-To run this web page locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/rock3879/rosie.git
-
-2. **Navigate to the Project Directory:**:
-    cd rosie-profile
-
-3. **Open index.html in your Browser:
-    Simply double-click on index.html or use a live server extension if you are using VSCode.
-
 ## Usage 
 
 Once the project is set up, you can navigate through the web page to view Rosie's profile, resume, and contact details. Here is a breakdown of the sections:
@@ -78,11 +64,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For any inquiries or further information, you can reach Rosie at:
 
-  - Email: rosie@example.com
-  - Phone: +123-456-7890
-  - LinkedIn: linkedin.com/in/rosie
-  - Website: www.rosie.com
-Thank you for visiting Rosie's profile page!
+  - Email: rosie.o@tutor.de
+  - Phone: +49 15566 888 999
+  - LinkedIn: linkedin.com/in/tutor
+  - Website: www.tutor.de
+Thank you for visiting our learning page!
 
 
 Feel free to modify the sections as needed to better fit the specific details and structure of Rosie's web page.
